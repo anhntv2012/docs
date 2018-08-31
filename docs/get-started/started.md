@@ -15,16 +15,16 @@ The RPC url of our testnet is `https://testnet.tomochain.com`, and Network ID is
 You can follow [this tutorial](https://medium.com/tomochain/tomo-guideline-how-to-connect-metamask-wallet-to-tomochain-f25053361ef) in order to connect your Metamask wallet to our testnet.
 
 ## Get some TOMO
-[TomoWallet](https://wallet.testnet.tomochain.com) provides a function named `Earn TOMO to test`. It will allows you to get 15 TOMO on the Testnet.
+[TomoWallet](https://wallet.testnet.tomochain.com) provides a function named `Earn TOMO to test`. It allows you to get 15 TOMO on the Testnet.
 
-We also have a service called "Faucet" who allows you to get 15 TOMO at a time. Note that, faucet TOMO is only used for experimenting with the testnet and has no value in our TomoChain mainnet, which will be launched in Q4 this year. 
+We also have a service called "Faucet" which allows you to get 15 TOMO at a time. Note that, faucet TOMO is only used for experimenting with the testnet and has no value in our TomoChain mainnet, which will be launched in Q4 this year. 
 
 To get faucet TOMO:
 1. Access the faucet site at: [https://faucet.testnet.tomochain.com](https://faucet.testnet.tomochain.com)
 
 2. Enter your wallet address in the field and tick the `I'm not a robot` box.
 
-3. Click `REQUEST 15 TOMO` and Wait for some second for the transaction to be confirmed.
+3. Click `REQUEST 15 TOMO` and Wait for some seconds for the transaction to be confirmed.
 
 You will receive a success confirmation message and the amount of TOMO in your wallet should be updated. You can check your TOMO balance by either looking at your wallet or using [TomoScan](https://scan.testnet.tomochain.com).
 
@@ -35,7 +35,7 @@ Now that you have some TOMO. You can access our governance dapp, [Tomomaster](ht
 
 Tomomaster natively supports Metamask. You can also access your account page (the vertical three dots on the top right) to fill in your wallet Private Key or MNEMONIC (see image below).
 
-If you use Metamask, you need to connect Mettamask to our testnet (please see the "Create a wallet" section) and choose Metamask in the drop-down settings list.
+If you use Metamask, you need to connect Metamask to our testnet (please see the "Create a wallet" section) and choose Metamask in the drop-down settings list.
 
 
 ![Setting](/figures/settingpage.jpg)
